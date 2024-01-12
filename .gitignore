@@ -1,0 +1,11 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore virtual environment directory
+DS_Env/
+
+# Ignore log files
+*.log
+
+# Ignore sensitive configuration files
+config.secret
