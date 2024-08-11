@@ -36,3 +36,12 @@ Density-Based Clustering
 
 This course is part of the 'IBM Data Science Professional Certificate'
 ![IBM](https://i.imgur.com/j6yW3WS.png)
+
+
+### Week 1
+- Introduction to Machine Learning
+- Linear & Non Linear Regression
+- Classification
+- Clustering
+- Recommender Systems
+- Final Project
