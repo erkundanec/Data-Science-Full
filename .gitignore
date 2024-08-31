@@ -9,3 +9,6 @@ DS_Env/
 
 # Ignore sensitive configuration files
 config.secret
+
+# Ignore Data directory. All the data are downloaded through code.
+Data/

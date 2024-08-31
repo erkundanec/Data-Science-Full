@@ -39,9 +39,9 @@ This course is part of the 'IBM Data Science Professional Certificate'
 
 
 ### Week 1
-- Introduction to Machine Learning
-- Linear & Non Linear Regression
-- Classification
-- Clustering
-- Recommender Systems
-- Final Project
+- Week 1: Introduction to Machine Learning
+- Week 2: Linear & Non Linear Regression
+- Week 3: Classification
+- Week 4: Clustering
+- Week 5: Recommender Systems
+- Week 6: Final Project
